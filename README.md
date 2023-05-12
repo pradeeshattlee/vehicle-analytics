@@ -1,2 +1,0 @@
-# vehicle-analytics
-POC
